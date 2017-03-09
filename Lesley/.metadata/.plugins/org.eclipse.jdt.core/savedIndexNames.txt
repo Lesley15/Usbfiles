@@ -1,0 +1,9 @@
+INDEX VERSION 1.129+I:\Lesley\.metadata\.plugins\org.eclipse.jdt.core
+1162099304.index
+1992376030.index
+3715184539.index
+2259974299.index
+3615993616.index
+847037438.index
+3849199266.index
+3053593204.index
